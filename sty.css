@@ -1,0 +1,62 @@
+#nn
+{
+color: white;
+}
+
+#tl
+{
+height: 90px;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+
+#tl1
+{
+height:130px;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+
+.form-control
+{
+border-top: 0px;!important
+border-left: 0px; !important;
+border-right: 0px; !important
+}
+
+#ti
+{
+height: 100px;
+width:1000px;
+}
+
+#co
+{
+height: 200px;
+width:1000px;
+}
+
+#sp
+{
+background-color: #B03060;
+}
+
+#mm
+{
+box-shadow: 5px 5px 10px;
+}
+
+#box
+{
+color: blank;
+}
+#accordion
+{
+box-shadow: 5px 0px 10px; !important;	
+}
+#w
+{
+overflow: auto;
+}
